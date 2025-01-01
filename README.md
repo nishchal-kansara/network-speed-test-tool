@@ -31,7 +31,7 @@ or
  python3 -m pip install speedtest-cli requests tqdm
 ```
 
-## How to Run this Python Script/Project:
+## Run this Python Script using Following Commands:
 1. ```bash
    cd {project_directory}
    ```
@@ -43,4 +43,7 @@ or
    
    ```bash
    cd {project_directory} & python3 checkSpeed.py
+   ```
 
+## Demo Network Speed Test Tool:
+![Network Speed Test Tool](https://github.com/user-attachments/assets/233b0bd7-9477-4968-806d-a05a5880e737)
